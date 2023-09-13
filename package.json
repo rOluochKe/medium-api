@@ -1,5 +1,5 @@
 {
-  "name": "medium-api",
+  "name": "mediumclone-nestjs",
   "version": "0.0.1",
   "description": "",
   "author": "",
@@ -37,6 +37,7 @@
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
     "rxjs": "^6.6.3",
+    "slugify": "^1.4.7",
     "typeorm": "^0.2.31"
   },
   "devDependencies": {
